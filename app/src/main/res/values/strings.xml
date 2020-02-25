@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ExampleList</string>
+
+    <string-array name="pets">
+        <item>Барсик</item>
+        <item>Мявсик</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Веник</item>
+        <item>Беник</item>
+        <item>Барсик</item>
+        <item>Мявсик</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Веник</item>
+        <item>Беник</item>
+        <item>Барсик</item>
+        <item>Мявсик</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Веник</item>
+        <item>Беник</item>
+        <item>Барсик</item>
+        <item>Мявсик</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Веник</item>
+        <item>Беник</item>
+        <item>Барсик</item>
+        <item>Мявсик</item>
+        <item>Мурзик</item>
+        <item>Васька</item>
+        <item>Веник</item>
+        <item>Беник</item>
+    </string-array>
+</resources>
