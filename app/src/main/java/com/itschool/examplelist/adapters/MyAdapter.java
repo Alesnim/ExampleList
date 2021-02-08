@@ -1,4 +1,4 @@
-package com.itschool.examplelist;
+package com.itschool.examplelist.adapters;
 
 import android.content.Context;
 import android.graphics.drawable.Drawable;
@@ -12,6 +12,8 @@ import android.widget.TextView;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+
+import com.itschool.examplelist.R;
 
 public class MyAdapter extends ArrayAdapter<String> {
 
